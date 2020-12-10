@@ -2,7 +2,7 @@
 title: Abstract Forward Models                        # Title in top navigation bar (navbar) and <head>
 description: Homepage for Abstract Forward Models page # Site description in <head>
 author: Diego Perez Liebana and GAIG at QMUL # Used for copyright statement in footer
-# url: "https://github.com/GAIGResearch/afm"  # No slash at the end
+# url: "https://gaigresearch.github.io"  # No slash at the end
 # baseurl: "/afm"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
