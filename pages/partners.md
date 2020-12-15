@@ -6,5 +6,12 @@ background: /assets/img/Stratega.png
 permalink: /partners/
 ---
 
-On this page you can list team members by defining them in [`_data/partners.yml`](https://github.com/peterdesmet/petridish/blob/master/_data/partners.yml).
+We count on the support and advice of partners from the games and research industries:
+
+- Gwaredd Mountain, Technical Director at Square Enix.
+- Tim Gosling and Duygu Çakmak, Lead Campaign and Project Technical Director (respectively) at Creative Assembly.
+- Jeff Rollason, the CEO at AI Factory
+- Dr. Sam Devlin, Senior Researcher from Microsoft Research Cambridge 
+- Alex Whittaker, CTO at Fusebox Games.
+- Deborah Fish (OBE), a Fellow at the Defence Science and Technology Laboratory (DSTL).
 
