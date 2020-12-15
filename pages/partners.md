@@ -14,4 +14,5 @@ We count on the support and advice of partners from the games and research indus
 - Dr. Sam Devlin, Senior Researcher from Microsoft Research Cambridge 
 - Alex Whittaker, CTO at Fusebox Games.
 - Deborah Fish (OBE), a Fellow at the Defence Science and Technology Laboratory (DSTL).
+- Julian Togeluis, Professor at New York University and founder of modl.ai
 
