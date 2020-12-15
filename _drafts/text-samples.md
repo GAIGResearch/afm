@@ -4,6 +4,11 @@ description: Example page for [Markdown syntax](https://guides.github.com/featur
 background: https://images.unsplash.com/photo-1486825586573-7131f7991bdd?auto=format&w=2000
 ---
 
+{: .alert .alert-info}
+Latest news here.
+
+
+
 See [`pages/about.md`](https://raw.githubusercontent.com/peterdesmet/petridish/master/pages/about.md) for the raw Markdown of this page.
 
 ## Headings
