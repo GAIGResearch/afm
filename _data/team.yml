@@ -4,7 +4,14 @@
   role: Principal investigator # Will appear next to name
   image: assets/img/DiegoPerezLiebana.jpg # Can be external link
   description: > # Can be Markdown
-    Blah blah
+    Diego Perez-Liebana is a Senior Lecturer in Computer Games and Artificial Intelligence at Queen Mary University of London (UK). 
+    He holds a Ph.D in Computer Science from the University of Essex (2015). His research is centred in the application of Artificial 
+    Intelligence to games, Tree Search and Evolutionary Computation. He is especially interested in the application of Statistical 
+    Forward Planning methods (such as Monte Carlo Tree Search and Rolling Horizon Evolutionary Algorithms) to modern games, General 
+    Video Game Playing, and strategy games. He has a long experience in organizing competitions for the Game AI community in recent 
+    years, including the Physical Traveling Salesman Problem, the GVGAI and the MARLO challenge. 
+    For more details, please see http://www.diego-perez.net/
+
   orcid: 0000-0003-1958-0212
   email: diego.perez@qmul.ac.uk 
   github: diegopliebana
