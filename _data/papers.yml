@@ -1,8 +1,15 @@
-- title: "Awaseome paper title"
-  authors: "Me and others"
-  journal: "ToG"
+- title: " Stratega - A General Strategy Games Framework"
+  authors: "Alexander Dockhorn, Jorge Hurtado-Grueso, Dominik Jeurissen and Diego Perez-Liebana"
+  data: "AIIDE-20 Workshop on Artificial Intelligence for Strategy Games (2020)"
+  link: StrategaAIIDE2020.pdf
 
-- title: "Awaseome paper title 2"
-  authors: "Others but not me"
-  journal: "AIIDE"   
- 
+- title: "The Design of Stratega - A General Strategy Games Framework"
+  authors: "Diego Perez-Liebana, Alexander Dockhorn, Jorge Hurtado-Grueso and Dominik Jeurissen"
+  data: "arXiv preprint arXiv:2009.05643 (2020)"   
+  link: StrategaDesign.pdf
+  
+  
+- title: "Tribes: A New Turn-Based Strategy Game for AI Research"
+  authors: "Diego Perez-Liebana, Yu-Jhen Hsu, Stavros Emmanouilidis, Bobby Dewan Akram Khaleque and Raluca D. Gaina"
+  data: "Proceedings of the Artificial intelligence and Interactive Digital Entertainment (AIIDE) (2020)"   
+  link: TribesAIIDE20.pdf

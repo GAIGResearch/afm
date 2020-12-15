@@ -10,51 +10,58 @@
     Forward Planning methods (such as Monte Carlo Tree Search and Rolling Horizon Evolutionary Algorithms) to modern games, General 
     Video Game Playing, and strategy games. He has a long experience in organizing competitions for the Game AI community in recent 
     years, including the Physical Traveling Salesman Problem, the GVGAI and the MARLO challenge. 
-    For more details, please see http://www.diego-perez.net/
 
   orcid: 0000-0003-1958-0212
   email: diego.perez@qmul.ac.uk 
   github: diegopliebana
   twitter: diego_pliebana
+  website: http://www.diego-perez.net
   
 - name: Alexander Dockhorn
   role: Research Associate # Will appear next to name
-  image: - # Can be external link
+  image: assets/img/alexdockhorn.png # Can be external link
   description: > # Can be Markdown
-    TBA
-  orcid: 
+    I studied Computer Science at the Otto-von-Guericke University (OvGU) in Magdeburg (Germany) and University of Abertay in Dundee (Scotland). 
+    Back in Magdeburg I finished my Master in Computer Science and after which I joined the Computational Intelligence research group lead by Prof. 
+    Rudolf Kruse and Prof. Sanaz Mostaghim. After finishing my PhD thesis on the topics forward model learning and predictive state 
+    determinization I joined the Game AI Research Group as a Postdoctoral Research Assistant. My current research interests are intelligent data 
+    analysis and more generalised methods for forward model learning. 
+  orcid: 0000-0001-8711-7428
   email: 
-  github: 
+  github: ADockhorn
   twitter: 
+  website: https://adockhorn.github.io/
   
 - name: Jorge Hurtado
   role: Game Developer # Will appear next to name
-  image: - # Can be external link
+  image: assets/img/hurtado.png # Can be external link
   description: > # Can be Markdown
-    TBA
+    In Semptember 2019, I graduated from ESNE (Spain, Madrid) with a Bachelor of Science degree in “Design and Videogame development”. The last year of my four year long bachelor, I studied abroad in Cologne Game Lab of the TH Köln – University of Applied Sciences (Germany). 
+    My main interest is artificial intelligence applied to videogames. I like to spend my spare time training and competing in Olympic Weightlifting. 
   orcid: 
-  email: 
-  github: 
+  email: j.hurtado@qmul.ac.uk
+  github: r4z396
   twitter: 
+  website: https://jorgehurtadogrueso.es/
   
 - name: Ethan Xu
   role: PhD Student # Will appear next to name
-  image: - # Can be external link
+  image: assets/img/ethan.jpg # Can be external link
   description: > # Can be Markdown
-    TBA
+    Fresher at Game AI Group. Previously working on: Reinforcement Learning algorithm and its application on Game AI and Robotics; Multi-Task Learning. Currently, I am working on stable, robust and applicable Game AI. 
   orcid: 
-  email: 
+  email: linjie.xu@qmul.ac.uk 
   github: 
   twitter: 
-  
+  website: https://egg-west.github.io/
   
 - name: Dominik Jeurissen
   role: MSc Student # Will appear next to name
-  image: - # Can be external link
+  image:  # Can be external link
   description: > # Can be Markdown
     TBA
   orcid: 
-  email: 
+  email: dominik.jeurissen@student.maastrichtuniversity.nl
   github: 
   twitter: 
 

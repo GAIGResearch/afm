@@ -12,10 +12,7 @@ remarks: See also page.layout == 'archive' in footer.html
   </div>
 </div>
 
-<div class="row cards">
-  {% for post in site.posts %}
-  <div class="col-md-6 col-lg-4">
-    {% include card.html %}
-  </div>
+  {% for paper in site.data.papers %}  
+    <b>{{ paper.title }}</b>, by {{ paper.authors }}, in <i>{{ paper.data}}</i> [<a href="{{paper.link}}">PDF</a>] <br><br>
   {% endfor %}
-</div>
+
