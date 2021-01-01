@@ -57,12 +57,16 @@
   
 - name: Dominik Jeurissen
   role: MSc Student # Will appear next to name
-  image:  # Can be external link
+  image: assets/img/dominik.jpg # Can be external link
   description: > # Can be Markdown
-    TBA
+    I'm a master student at Maastricht University (Netherlands), and I'm in my last year of the master's programme "Artificial Intelligence".
+    I've worked as an intern at Queen Mary University since July 2019, and I'm planning to cooperate with QMUL for my master thesis.
+    I'm very interested in researching efficient learning methods for Deep Learning.
+    My main interests are topics like one-shot learning, intrinsic motivation and Hebbian plasticity.
+    For my master thesis, I will research on how to enable search-algorithms to adapt quickly to a complex environment while searching.
   orcid: 
   email: dominik.jeurissen@student.maastrichtuniversity.nl
-  github: 
-  twitter: 
+  github: CommanderCero
+  twitter: DominikJeuriss1 
 
 # Copy, paste and edit for more
